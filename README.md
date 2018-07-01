@@ -1,0 +1,2 @@
+# pytesseract
+Reconhecimento de Caracteres
